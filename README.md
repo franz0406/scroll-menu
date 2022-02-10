@@ -1,4 +1,4 @@
-## 스크롤 메뉴 - Smooth Scroll
+## 스크롤 메뉴 - Smooth Scroll [사이트 보기](https://franz0406.github.io/scroll-menu/)
 
 
 메뉴클릭시 부드럽게 화면스크롤되고 해당 영역에 도달하면 클릭헌 메뉴 스타일 변경 효과.
